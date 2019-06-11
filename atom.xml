@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.jingli.site/"/>
-  <updated>2019-05-31T08:32:48.681Z</updated>
+  <updated>2019-06-11T02:46:36.557Z</updated>
   <id>https://www.jingli.site/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java8 - 更优雅的字符串连接(join)收集器 Collectors.joining</title>
+    <link href="https://www.jingli.site/%E5%90%8E%E7%AB%AF/Java8%20-%20%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BF%9E%E6%8E%A5(join)%E6%94%B6%E9%9B%86%E5%99%A8%20Collectors.joining/"/>
+    <id>https://www.jingli.site/后端/Java8 - 更优雅的字符串连接(join)收集器 Collectors.joining/</id>
+    <published>2019-06-11T02:41:30.000Z</published>
+    <updated>2019-06-11T02:46:36.557Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+      
+    
+    </summary>
+    
+      <category term="后端" scheme="https://www.jingli.site/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="Java8" scheme="https://www.jingli.site/tags/Java8/"/>
+    
+  </entry>
   
   <entry>
     <title>how are u</title>
